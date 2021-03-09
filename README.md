@@ -14,8 +14,9 @@ The ED-LSTME code should be compiled with keras and Tensorflow
 Usage
 =======
 
-Step1: Install Keras with TensorFlow backend
-Step2: Download the file from HHTP and unzip it to the INPUT directory
+step1: Install Keras with TensorFlow backend
+
+step2: Download the file from HHTP and unzip it to the INPUT directory
 
 Testing
 =======
