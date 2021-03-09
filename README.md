@@ -4,7 +4,7 @@ The ED-LSTME code should be compiled with keras and Tensorflow
 
 """
 
-@auther: Xiong Pan
+@auther: Dr.Xiong Pan
 
 @email: xiongpan@ief.ac.cn 
 
