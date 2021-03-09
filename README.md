@@ -16,7 +16,7 @@ Usage
 
 step1: Install Keras with TensorFlow backend
 
-step2: Download the file from HHTP and unzip it to the INPUT directory
+step2: Download the file from https://drive.google.com/file/d/1wqLWFtxTHuKpvlJjYtqYa3WvvmKF6bVS/view?usp=sharing and unzip it to the INPUT directory
 
 Testing
 =======
